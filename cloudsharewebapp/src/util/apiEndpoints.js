@@ -1,4 +1,4 @@
-const BASE_URL = "https://cloud-share-app-backend.onrender.com";
+const BASE_URL = "https://cloud-share-backend.onrender.com";
 
 export const apiEndpoints = {
     FETCH_FILES: `${BASE_URL}/files/my`,
